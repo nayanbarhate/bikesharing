@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Unnecessary files added
+201908-citibike-tripdata.csv
+201908_cb_NYC_tripdata_updated.csv
+
 # C extensions
 *.so
 
